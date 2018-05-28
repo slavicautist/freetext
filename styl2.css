@@ -1,0 +1,142 @@
+body {
+background: #DDDDFF;
+color: #333333;
+font-family: sans-serif;
+}
+
+a {
+text-decoration: none;
+color: #7777FF;
+}
+
+a:visited {
+text-decoration: none;
+color: #7777FF;
+}
+
+a:hover {
+text-decoration: none;
+color: #DCCC66;
+}
+
+td {
+padding: 2px;
+}
+
+.cent {
+text-align: center;
+}
+
+.main {
+background-color: #FAF9FF;
+padding : 30px;
+}
+
+.pruh {
+background: #EAE0FE;
+color: #333333;
+}
+
+.jmeno {
+font-weight: bold;
+color: #6F7DAD;
+}
+
+.predmet {
+color: #666666;
+font-style: italic;
+}
+
+.meno {
+background: #64646C;
+color: #FFF;
+font-weight: 800;
+}
+
+.predm {
+background: #64646C;
+color: #FFF;
+font-weight: 800;
+}
+
+.zeltext {
+color: #789922;
+}
+
+.klastext {
+color: #333333;
+font-family: sans-serif;
+}
+
+.monotext {
+color: #333333;
+font-family: "Lucida Console", Monaco, monospace;
+}
+
+.pic
+{
+max-width: 800px;
+max-height: 600px;
+}
+
+img
+{
+max-width: 800px;
+max-height: 600px;
+}
+
+.spoiler
+{
+color: #000000;
+background: #000000;
+}
+
+.spoiler:hover
+{
+color: #EEEEEE;
+}
+
+.tripcode
+{
+color: #FFFFFF;
+}
+
+.zero {
+background: #E5E3F8;
+color: #000000;
+}
+
+.one {
+background: #EBF8E3;
+color: #000000;
+}
+
+.two {
+background: #D5F3C2;
+color: #000000;
+}
+
+.three {
+background: #BEED84;
+color: red;
+}
+
+.mone {
+background: #FBF2B2;
+color: #000000;
+}
+
+.mtwo {
+background: #F09393;
+color: #FFFFFF;
+}
+
+.mthree {
+background: #E44A4A;
+color: #FFFFFF;
+}
+
+.nic
+{
+
+}
